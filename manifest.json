@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Bhagavad Gita Wisdom",
+  "version": "1.0",
+  "description": "Get random verses from Bhagavad Gita to help you become a better person",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icon48.png"
+    }
+  },
+  "icons": {
+    "48": "icon48.png"
+  }
+}
